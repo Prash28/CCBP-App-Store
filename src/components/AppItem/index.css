@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.app-item-container {
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  border-radius: 10px;
+  margin: 5px;
+  justify-content: center;
+  padding: 10px;
+  align-items: center;
+}
+.app-item-image {
+  height: 100px;
+  width: 100px;
+}
